@@ -1,0 +1,12 @@
+3rdparty/*
+bin/*
+examples/*
+include/*
+lib/*
+models/*
+OutputKeypoints/*
+*.zip
+*.png
+*.jpg
+*.mp4
+*.avi
